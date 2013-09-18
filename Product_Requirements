@@ -1,0 +1,18 @@
+Website Title: The Card Board
+
+Statement of Purpose:
+The pupose of The Card Board is to allow users to post their deck lists on the website and get advice from other players on how to improve. It will give users a platform to search through and compile cards into their own arrays where they can choose to post them publicly or privately.
+
+Version 1 Features: 
+	Sign in / Sign up
+	Create / View / Update / Delete card arrays
+	Create / View / Delete comments associated with deck arrays
+	Browse ~17,000 card database with images
+
+Version 2 Features:
+	Advanced Browsing (more searching options)
+	Card / Deck pricing
+	Deck playtesting environment
+	Karma system for helping people out
+
+https://github.com/MattMohl/RubyIndividualProject
